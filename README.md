@@ -269,7 +269,21 @@ NODE_ENV=development
 | `GET` | `/:shortCode` | Redirect short link to original URL |
 
 ---
-### Screenshots
+## Screenshots
+![image alt](https://github.com/Arul-2004/LinkSnip-Katomarans-/blob/main/backend/%7B62734898-39B4-4233-B16C-02E5601CFC2E%7D.png?raw=true)
+1.Home Page
+![image alt](https://github.com/Arul-2004/LinkSnip-Katomarans-/blob/main/backend/%7B9E5B074A-84C0-42A5-A205-921FD7E483B2%7D.png?raw=true)
+2.user Authentication
+![image alt](https://github.com/Arul-2004/LinkSnip-Katomarans-/blob/main/backend/%7B3A160141-C51E-4DB4-B07D-6DB930FB1A82%7D.png?raw=true)
+3.Link
+![image alt](https://github.com/Arul-2004/LinkSnip-Katomarans-/blob/main/backend/%7BFC8454D4-BDC4-4357-961A-82CB180C4B95%7D.png?raw=true)
+4.Edit Link
+![image alt](https://github.com/Arul-2004/LinkSnip-Katomarans-/blob/main/backend/%7BC5BA4C75-C3BA-4863-88A2-4CD7DE59E1E5%7D.png?raw=true)
+5.QR
+![image alt](https://github.com/Arul-2004/LinkSnip-Katomarans-/blob/main/backend/%7B8A0AE63E-7499-477E-9DC8-AE5C24C281B8%7D.png?raw=true)
+6.Analytics
+![image alt](https://github.com/Arul-2004/LinkSnip-Katomarans-/blob/main/backend/%7B23D145A8-E67C-4308-88C7-7215D734D2D8%7D.png?raw=true)
+7.Bulk url Upload
 
 
 ## 💡 Assumptions Made
