@@ -269,6 +269,8 @@ NODE_ENV=development
 | `GET` | `/:shortCode` | Redirect short link to original URL |
 
 ---
+### Screenshots
+
 
 ## 💡 Assumptions Made
 
